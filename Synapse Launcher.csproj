@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--Project was exported from assembly: C:\Users\Gaming Desktop\Desktop\Decompile bitch\Synapse Launcher.exe-->
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{73D2022F-95E4-455F-AB1A-AF523366D4C1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>Synapse Softworks Launcher</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <ApplicationVersion>1.1.0.0</ApplicationVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="_003CModule_003E.cs" />
+    <Compile Include="_0002.cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002  .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002  `1.cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002  .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002 .cs" />
+    <Compile Include="_0002​.cs" />
+    <Compile Include="_0003.cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003  .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003  .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003  .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003 `1.cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003 .cs" />
+    <Compile Include="_0003​.cs" />
+    <Compile Include="_0005.cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005  .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005  .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005  .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005 .cs" />
+    <Compile Include="_0005​.cs" />
+    <Compile Include="_0006.cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006  .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006  `1.cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006  .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006 .cs" />
+    <Compile Include="_0006​.cs" />
+    <Compile Include="_0008.cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008  .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008  .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008  .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008 .cs" />
+    <Compile Include="_0008​.cs" />
+    <Compile Include="_000E.cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E  .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E  .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E  .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E .cs" />
+    <Compile Include="_000E​.cs" />
+    <Compile Include="_000F.cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F  .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F  .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F  .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F .cs" />
+    <Compile Include="_000F​.cs" />
+    <Compile Include="pc1eOx2WJVV1822852035.cs" />
+    <Compile Include="AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="              " />
+    <EmbeddedResource Include="38f1b8b390df46d45d196117d26605de" />
+    <EmbeddedResource Include="fc0fad86986c46b45e204ce82e4e2690" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
